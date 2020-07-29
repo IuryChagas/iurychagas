@@ -4,4 +4,6 @@
 </div>
 
 
-I'm a systems analyst working in the development of IBM BPM/BPMS services and processes. In a stack of business process modeling, services integration using REST and JS architecture. I appreciate Frontend technologies like Html / Css and JavaScript, this is my playground! So you will find a lot of mess and horrible scripts :trollface: , But learning is a process and I am enjoying it. Feel free to connect to other social networks and send me questions or tips to improve my codes in any of the repositories :octocat: [available here](https://github.com/iurychagas?tab=repositories).
+I'm a systems analyst working with *IBM/BPMS* developing services and processes. In a stack of business process modeling, services integration using ***REST/API*** and ***JavaScript architecture***. I appreciate Frontend technologies like  ***HTML, CSS*** and ***JavaScript***, That's where I have the most fun! So probably you will find some messy code in here :trollface:. But learning is a process and I'm loving it.
+
+Please, fell free to get in touch, to connect with me on my other social midia, and if you have any questions or tips to improve my code on any of my repositories that are :octocat: [available here](https://github.com/iurychagas?tab=repositories), let me know!
