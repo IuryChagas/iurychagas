@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/IuryChagas/iurychagas/master/perfil_Github.png" alt="just a small picture of a bearded guy!">
+    <img src="https://raw.githubusercontent.com/IuryChagas/iurychagas/master/perfil_Github.png" alt="just a small picture of a bearded guy!" width= 98px; height= 98px;>
     <h1>:computer: Hello, folks! my name is Iury :headphones:</h1>
 </div>
 
