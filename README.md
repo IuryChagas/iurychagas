@@ -1,9 +1,37 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/IuryChagas/iurychagas/master/perfil_Github.png" alt="just a small picture of a bearded guy!" width= 98px; height= 98px;>
-    <h1>:computer: Hello, folks! my name is Iury :headphones:</h1>
+    <img src="https://img.stackshare.io/user/1146894/2a3de9391ec67038fed35dc15f13c0691cbb736b.jpg" alt="just a small picture of a bearded guy!" width="98px"; height="98px"; style="border-radius: 30px";>
+    <h1>Iury Chagas</h1>
 </div>
 
 
-I'm a systems analyst working with *IBM/BPMS* developing services and processes. In a stack of business process modeling, services integration using ***REST/API*** and ***JavaScript architecture***. I appreciate Frontend technologies like  ***HTML, CSS*** and ***JavaScript***, That's where I have the most fun! So probably you will find some messy code in here :trollface:. But learning is a process and I'm loving it.
+:man_technologist: Atualmente trabalhando e estudando `NodeJS` com `TypeScript` em uma Stack de tecnologias Backend como `TypeORM` e `SQL` para banco de dados, Jest para `TDD` e `Git` para versionamento.
 
-Please, fell free to get in touch, to connect with me on my other social midia, and if you have any questions or tips to improve my code on any of my repositories that are :octocat: [available here](https://github.com/iurychagas?tab=repositories), let me know!
+:computer: No dia a dia desenvolvendo serviços e integrações de *API's* no ritmo de entregas scrum atuando remotamente.
+
+:books: Em paralelo estudos continuos no Inglês e tecnologias cloud como `GCP` e `AWS`, também se aventurando no `Ruby on Rails` em projetos pessoais.
+
+:man_student: Concluindo graduação em `ADS`.
+
+:bank: No background de experiências possui conhecimentos em plataformas proprietárias como IBM BPM *para modelagem e automação de regras de negocio*, IIBUS *para integrações entre sistemas back-end* _"barramento de serviços corporativos"_ além de `WebService`, `HTML`, `CSS` entre outras.
+
+<h1></h1>
+
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"  width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  width="40" height="40" />
+    <img src="https://img.stackshare.io/service/7419/20165699.png" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"   width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"  width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg"  width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"  width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  width="40" height="40"/>
+</div>
+
+<h1></h1>
