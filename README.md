@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://img.stackshare.io/user/1146894/2a3de9391ec67038fed35dc15f13c0691cbb736b.jpg" alt="just a small picture of a bearded guy!" width="98px"; height="98px"; style="border-radius: 30px";>
+    <img src="perfil_Github.png" alt="just a small picture of a bearded guy!" width="98px"; height="98px"; style="border-radius: 30px";>
     <h1>Iury Chagas</h1>
 </div>
 
