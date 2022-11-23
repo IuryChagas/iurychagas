@@ -3,16 +3,16 @@
     <h1>Iury Chagas</h1>
 </div>
 
+:bank: Atualmente trabalhando com tecnologias backend desenvolvendo integrações entre serviços por meio de APIs e Webservices em plataformas IBM como (`IIB`): _IBM Integration Bus_ e (`BAW`): _Business Automation Workflow_.
 
-:man_technologist: Atualmente trabalhando e estudando `NodeJS` com `TypeScript` em uma Stack de tecnologias Backend como `TypeORM` e `SQL` para banco de dados, Jest para `TDD` e `Git` para versionamento.
+:books: Em paralelo pratica Inglês e tecnologias JavaScript como `NodeJS`, `TypeScript`, `TypeORM` e `TDD` com `Jest`.
 
-:computer: No dia a dia desenvolvendo serviços e integrações de *API's* no ritmo de entregas scrum atuando remotamente.
+:floppy_disk: Em Banco de Dados, `SQL` em `SQL-Server` e `Oracle DB`, também estuda `Golang` por curiosidade e segue um roadmap para `DevOps`/`AWS`.
 
-:books: Em paralelo estudos continuos no Inglês e tecnologias cloud como `GCP` e `AWS`.
+:man_student: Graduado em (`ADS`): Análise e desenvolvimento de sistemas.
 
-:man_student: Concluindo graduação em `ADS`.
+:man_technologist: Remotamente de Curitiba `PR`/`BR`.
 
-:bank: No background de experiências possui conhecimentos em plataformas proprietárias como <span alt="IBM Business Process Manager" title="IBM Business Process Manager">`IBM BPM`</span> *para modelagem e automação de regras de negocio*, <span alt="IBM Integration Bus Service" title="IBM Integration Bus Service">`IIBUS`</span> *para integrações entre sistemas back-end* _"barramento de serviços corporativos"_ e <span alt="IBM Queuer Manager" title="IBM Queuer Manager">`IBM MQ`</span>  _como gerenciador de mensageria_ além de `WebService`, `HTML`, `CSS` entre outras.
 
 <h1></h1>
 
@@ -25,11 +25,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  width="40" height="40"  title= "Html5"/>
     <img src="https://img.stackshare.io/service/7419/20165699.png" width="40" height="40" title= "TypeORM"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"   width="40" height="40" title= "Jest"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"  width="40" height="40" title= "Hi, I'm Gopher!"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="40" height="40" title= "GitHub"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg"  width="40" height="40" title= "Gitlab"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40" title= "ViM"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40" title= "VSCode"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" title= "Oracle"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"  width="40" height="40" title= "Google Cloud"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  width="40" height="40" title= "Amazon Web Service"/>
 </div>
 
