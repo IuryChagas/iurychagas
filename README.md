@@ -3,16 +3,15 @@
     <h1>Iury Chagas</h1>
 </div>
 
-:bank: Atualmente trabalhando com tecnologias backend desenvolvendo integrações entre serviços por meio de APIs e Webservices em plataformas IBM como (`IIB`): _IBM Integration Bus_ e (`BAW`): _Business Automation Workflow_.
+:bank: Currently working with Backend technologies developing integrations between services through API's and Webservices on IBM platforms such as (`IIB`): _IBM Integration Bus_ and (`BAW`): _Business Automation Workflow_.
 
-:books: Em paralelo pratica Inglês e tecnologias JavaScript como `NodeJS`, `TypeScript`, `TypeORM` e `TDD` com `Jest`.
+:books: In parallel, he studies JavaScript technologies such as `NodeJS`, `TypeScript`, `TDD`, `Patterns` and `Cloud environments`.
 
-:floppy_disk: Em Banco de Dados, `SQL` em `SQL-Server` e `Oracle DB`, também estuda `Golang` por curiosidade e segue um roadmap para `DevOps`/`AWS`.
+:floppy_disk: In Database, `SQL` on `SQL-Server` and `OracleDB`, he also studies `Golang` and follow roadmaps about `DevOps`/`Azure`.
 
-:man_student: Graduado em (`ADS`): Análise e desenvolvimento de sistemas.
+:man_student: Graduated in Systems Analysis and Development.
 
-:man_technologist: Remotamente de Curitiba `PR`/`BR`.
-
+:man_technologist: Remotely from Curitiba `PR`/`🇧🇷 BR`.
 
 <h1></h1>
 
@@ -20,7 +19,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" title="JavaScript"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40" title= "NodeJS"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40" title= "TypeScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" width="40" height="40"  title= "Yarn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width="40" height="40"  title= "Yarn"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"  width="40" height="40"  title= "Css3"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  width="40" height="40"  title= "Html5"/>
     <img src="https://img.stackshare.io/service/7419/20165699.png" width="40" height="40" title= "TypeORM"/>
@@ -30,8 +29,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg"  width="40" height="40" title= "Gitlab"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40" title= "ViM"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40" title= "VSCode"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" title= "Oracle"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  width="40" height="40" title= "Amazon Web Service"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" title="SqlServer"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
+          
 </div>
 
 <h1></h1>
